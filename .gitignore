@@ -58,3 +58,9 @@ typings/
 .env
 
 .idea
+
+.bsp/
+.vscode/
+dump.rdb
+project/
+target/
